@@ -46,7 +46,6 @@
    title.style.backgroundColor = "steelblue";
    message.textContent = "";
  }
- //init variables
 
 //state
 let numSquares = 6;
